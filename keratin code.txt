@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+    cout<<"enter the age"<<endl;
+    int age;
+    cin>>age;
+    if(age>65)
+    {
+        cout<<"For haealthty life follow the following steps:"<<endl;
+        cout<<"wake up early"<<endl;
+        cout<<"eat a balanced diet"<<endl;
+        cout<<"perform yoga everyday"<<endl;
+        cout<<"have ateast 8 hours sleep"<<endl;
+        
+    }
+    return 0;
+}
